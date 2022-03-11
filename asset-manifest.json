@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geoip/static/css/main.296f327b.css",
+    "main.js": "/geoip/static/js/main.87f26397.js",
+    "index.html": "/geoip/index.html",
+    "main.296f327b.css.map": "/geoip/static/css/main.296f327b.css.map",
+    "main.87f26397.js.map": "/geoip/static/js/main.87f26397.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.296f327b.css",
+    "static/js/main.87f26397.js"
+  ]
+}
