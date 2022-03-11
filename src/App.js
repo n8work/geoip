@@ -9,7 +9,7 @@ function App() {
       </header>
 
       <section className="text">
-          Text
+          Text branch main
       </section>
 
       <section className="map">
