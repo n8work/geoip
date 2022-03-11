@@ -1,6 +1,6 @@
 {
   "name": "geoapi",
-  "homepage": "http://n8work.github.io/geoip",
+  "homepage": "https://n8work.github.io/geoip",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
