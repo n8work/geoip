@@ -9,7 +9,9 @@ function App() {
       </header>
 
       <section className="text">
-          Text - Branch Test
+          Text - Branch TEST
+          <br />
+          New Line
       </section>
 
       <section className="map">
