@@ -9,7 +9,9 @@ function App() {
       </header>
 
       <section className="text">
-          Text branch main
+          Text branch main 
+          <br />
+          New Line
       </section>
 
       <section className="map">

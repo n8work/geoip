@@ -32,6 +32,12 @@ section {
   background-color: #444444;
 }
 
+.map {
+  height: 10vmin;
+  color: #fff;
+  background-color: darkblue;
+}
+
 footer {
   background-color: #282c34;
 }
